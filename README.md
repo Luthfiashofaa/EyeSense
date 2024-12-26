@@ -31,5 +31,5 @@ Proyek ini bertujuan untuk memberikan solusi teknologi bagi penderita tunanetra 
 
 ### Repository untuk Mobile App
 
-[EyeSense_Mobile_Repository]([https://github.com/Luthfiashofaa/EyeSense](https://github.com/Luthfiashofaa/EyeSense_Mobile.git)
+[EyeSense_Mobile_Repository](https://github.com/Luthfiashofaa/EyeSense_Mobile.git)
 
